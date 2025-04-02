@@ -1,10 +1,30 @@
-Ce projet vise à explorer, analyser et prédire les salaires à partir d'un jeu de données multidimensionnel. Il combine plusieurs étapes essentielles de la science des données pour garantir une analyse approfondie et des prédictions robustes. Les principales étapes du projet incluent :
+# 💼 Analyse et Prédiction des Salaires
 
-1. **Qualité des données** : Identification et traitement des problèmes de qualité, tels que les valeurs manquantes, les incohérences, et les outliers.
-2. **Exploration des données** : Calcul des statistiques descriptives et création de visualisations pour mieux comprendre les tendances et les relations entre les variables.
-3. **Traitement des variables textuelles** : Application de techniques de NLP (comme TF-IDF) pour transformer les données textuelles en formats exploitables.
-4. **Réduction de dimension** : Utilisation de méthodes telles que l'analyse en composantes principales (PCA) et le manifold learning pour visualiser et simplifier les données tout en conservant les informations clés.
-5. **Choix et application de modèles de machine learning** : Comparaison de différents algorithmes de régression, tels que Random Forest, Gradient Boosting et XGBoost, pour prédire les salaires à partir des caractéristiques des individus.
-   
-L’objectif final est de fournir un pipeline complet et efficace pour prédire les salaires, tout en mettant en avant l’importance de la qualité et de la préparation des données. 
-Ce projet peut être appliqué dans des contextes pratiques tels que l’analyse des tendances salariales
+## 📝 Description  
+Ce travail vise à **explorer, analyser et prédire les salaires** à partir d’un jeu de données multidimensionnel. Il suit un pipeline complet de science des données, en mettant l’accent sur la qualité des données, l’analyse exploratoire, la transformation des variables, et l'application de modèles de régression.
+
+## 🔍 Étapes du travail
+
+1. ✅ **Qualité des données**  
+   - Détection des valeurs manquantes, incohérences et outliers  
+   - Nettoyage et préparation des données
+
+2. 📊 **Exploration des données**  
+   - Statistiques descriptives  
+   - Visualisations pour comprendre les relations entre variables
+
+3. 🧠 **Traitement des variables textuelles**  
+   - Application de techniques de NLP (TF-IDF, etc.)  
+   - Transformation des colonnes textuelles pour l’analyse
+
+4. 🔄 **Réduction de dimension**  
+   - PCA et manifold learning  
+   - Visualisation des données réduites
+
+5. 🤖 **Modélisation et Prédiction**  
+   - Test de modèles de régression : Random Forest, Gradient Boosting, XGBoost  
+   - Évaluation des performances prédictives
+
+## 🎯 Objectif  
+Proposer un **pipeline d’analyse et de prédiction des salaires** robuste, adaptable à des cas concrets tels que l’analyse des tendances salariales dans un secteur donné.
+
