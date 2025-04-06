@@ -1,4 +1,4 @@
-# 📊 Analyse et Prédiction des Salaires
+#  Analyse et Prédiction des Salaires
 
 ##  Description  
 Ce travail vise à **explorer, analyser et prédire les salaires** à partir d’un jeu de données multidimensionnel. Il suit un pipeline complet de science des données, en mettant l’accent sur la qualité des données, l’analyse exploratoire, la transformation des variables, et l'application de modèles de régression.
@@ -25,7 +25,7 @@ Ce travail vise à **explorer, analyser et prédire les salaires** à partir d�
    - Test de modèles de régression : Random Forest, Gradient Boosting, XGBoost  
    - Évaluation des performances prédictives
 
-## 🎯 Objectif  
+## Objectif  
 Proposer un **pipeline d’analyse et de prédiction des salaires** robuste, adaptable à des cas concrets tels que l’analyse des tendances salariales dans un secteur donné.      
 
 ##  Auteur
