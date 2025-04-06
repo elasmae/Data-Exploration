@@ -1,9 +1,9 @@
-# 💼 Analyse et Prédiction des Salaires
+#  Analyse et Prédiction des Salaires
 
-## 📝 Description  
+##  Description  
 Ce travail vise à **explorer, analyser et prédire les salaires** à partir d’un jeu de données multidimensionnel. Il suit un pipeline complet de science des données, en mettant l’accent sur la qualité des données, l’analyse exploratoire, la transformation des variables, et l'application de modèles de régression.
 
-## 🔍 Étapes du travail
+##  Étapes du travail
 
 1. ✅ **Qualité des données**  
    - Détection des valeurs manquantes, incohérences et outliers  
