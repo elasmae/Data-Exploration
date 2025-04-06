@@ -26,5 +26,8 @@ Ce travail vise à **explorer, analyser et prédire les salaires** à partir d�
    - Évaluation des performances prédictives
 
 ## 🎯 Objectif  
-Proposer un **pipeline d’analyse et de prédiction des salaires** robuste, adaptable à des cas concrets tels que l’analyse des tendances salariales dans un secteur donné.
+Proposer un **pipeline d’analyse et de prédiction des salaires** robuste, adaptable à des cas concrets tels que l’analyse des tendances salariales dans un secteur donné.      
+
+##  Auteur
+- Asmae EL MAHJOUBI
 
